@@ -1,5 +1,5 @@
-import PixelOfficeHome from "@/components/PixelOfficeHome";
+import AwwwardsHome from "@/components/AwwwardsHome";
 
 export default function HomePage() {
-  return <PixelOfficeHome />;
+  return <AwwwardsHome />;
 }
